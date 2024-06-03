@@ -1,4 +1,4 @@
-# FIDO2 Software Emulation
+# FIDO2 C++ Emulation
 #### This is not the actual fido2 implementation but a simpler simulation including:
 * A single server
 * Multiple users
