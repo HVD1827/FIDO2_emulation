@@ -8,7 +8,7 @@
 
 #### Running:
 * Clone the repository.
-* Run `g++ main.cpp Device.cpp User.cpp UserInfo.cpp Server.cpp` on the command line.
+* Run `g++ main.cpp Device.cpp User.cpp UserInfo.cpp Server.cpp` on the command line or terminal.
 * Run `./a.exe` or `./a.out` to execute the program.
 
 #### How to use:
