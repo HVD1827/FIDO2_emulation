@@ -23,4 +23,4 @@
 
 I have also attached the pdf for the outline of the project, including detailed explanation of different stages.
 
-PS: This is an emulation of how CTAP and authentication works and help logins, Now I will be working on implementation of CTAP using a usb token or phone as an authenticator.
+PS: This is an emulation of how CTAP and authentication works and helps in logging in securely. Now I will be working on implementation of CTAP using a usb token or phone as an authenticator.
