@@ -20,3 +20,6 @@
     * **Register** - The command prompt/ terminal will guide you to enter username. To perform this just enter `R` and then command prompt will guide you accordigly.
     * **Sign-in** - For this the you are supposed to enter your password for the device additionally.  To perform this just enter `S` and then command prompt will guide you accordigly.
     * **Print users** - This prints the username of the users registered with the server. This data is not actually open to the users, but is limited to the server. But we can perform this to check the functionality. To perform this just enter `P`. 
+
+I have also attached the pdf for the outline of the project, including detailed explanation of different stages.
+PS: This is an emulation of how CTAP and authentication works, Now I will be implementing CTAP using a usb token or phone as an authenticator.
